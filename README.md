@@ -105,7 +105,7 @@ The analytical approach for this project was multi-faceted, focusing on turning 
 
 - **Data Source**: Multiple CSV files from Kaggle (netflix data.xlsx - netflix1.csv, netflix data.xlsx - Sheet2.csv, netflix data.xlsx - Sheet1.csv), linked by release_year.
 
-## Visualisations:
+## Visualizations:
 
 - Overall Content Metrics (Total Content, No. of Countries, No. of Shows, No. of Movies)
 
